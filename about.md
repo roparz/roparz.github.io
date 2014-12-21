@@ -4,8 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Autodidacte, j'ai acquis beaucoup de compétences au cours de mes différentes
+<a href="https://www.linkedin.com/in/cgourmelon" target="_blank">expériences professionnelles</a>.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Mes spécialités sont les technologies "front-end": **HTML**, **CSS** (Sass, Less)
+et **Javascript** (avec une préférence pour **CoffeeScript**).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Après plusieurs années à bâtir des applications web complexes, dont les dernières
+en utilisant le framework **AngularJS**, je suis aujourd'hui capable je construire
+de A à Z des sites internet rapide et robuste.
+
+J'ai aussi un peu d'expérience dans les technology "back-end", avec notamment des
+notions en PHP et Java. J'ai eu l'occasion d'utiliser **NodeJS** de façon plus approfondi.
+
+Je suis aussi un adepte de **Git** (je crée mes propres alias), **Gulp**, **Bower**
+et toutes ces petites technos qui apportent beaucoup et simplifient énormément le développement.
+
+En bref, je suis un développeur front passionné qui adore son métier.
