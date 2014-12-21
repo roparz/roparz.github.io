@@ -35,7 +35,8 @@ L'alias suivant est probablement le plus pratique de tous, il permet d'avoir un 
 {% highlight bash %}
 lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 {% endhighlight %}
-
+En voici un exemple (git log d'Angular) :
+![git log exemple](/assets/git-log.png)
 
 Dans ma boite, on utilise le `rebase` plutôt que le `merge`. Il arrive donc parfois
 que l'arbre des commits soit réécrit. On ne peut donc plus faire de simple `git pull`
