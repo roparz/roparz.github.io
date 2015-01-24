@@ -4,7 +4,7 @@ title:  "Deux alias Git pour gérer ses tags"
 date:   2015-01-24 18:42:00
 ---
 
-Aujourd'hui, après vous avoir parler de mes [alias Git de base](/2014/12/21/basic-git-aliases.html)
+Aujourd'hui, après vous avoir parlé de mes [alias Git de base](/2014/12/21/basic-git-aliases.html)
 et de [mon alias préféré `git fix`](/2015/01/05/git-fix.html), je vais vous parler
 de deux alias Git que j'utilise régulièrement dans ma boite pour gérer les tags.
 
@@ -66,7 +66,7 @@ uptag = "!f() {\
 }; f"
 {% endhighlight %}
 
-Les quatres première lignes sont les mêmes que pour `rmtag`, je ne reviens pas
+Les quatres premières lignes sont les mêmes que pour `rmtag`, je ne reviens pas
 dessus.
 
 1. je tag le commit courant
