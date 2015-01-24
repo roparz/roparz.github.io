@@ -4,10 +4,27 @@ layout: default
 
 <div class="home">
 
+  <section class="posts">
+    <h1 class="page-heading">Posts</h1>
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </section>
+
   <aside class="twitter-sidebar">
     <h1 class="page-heading">Tweets</h1>
     <a
-      width="320"
       height="500"
       data-chrome="noheader nofooter transparent"
       data-border-color="#e8e8e8"
@@ -16,22 +33,6 @@ layout: default
       data-widget-id="559037647625408513"
     >Tweets by @roparz</a>
   </aside>
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
 
