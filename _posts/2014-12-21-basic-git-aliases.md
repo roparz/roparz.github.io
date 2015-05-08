@@ -4,6 +4,8 @@ title:  "Quelques alias Git de base"
 date:   2014-12-21 19:00:00
 ---
 
+> TLDR; présentation/explication de mon fichier [.gitconfig](https://gist.github.com/roparz/de0e662fb980bdd8284e)
+
 Pour ce tout premier post je vais vous partager les quelques alias Git que j'utilise
 tous les jours (ou presque). Je partagerai plus tard d'autre alias maison un peu plus
 complexe ;-)
