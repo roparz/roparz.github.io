@@ -5,11 +5,16 @@
     <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li class="social-media-list">
+      <div class="footer-col  footer-col-3">
+        {{ site.title }}
+      </div>
+
+      <div class="footer-col  footer-col-3">
+          <div class="social-media-list">
+            <a href="mailto:{{ site.email }}">
+                <span class="fa fa-envelope-o"></span>
+            </a>
+
             {% if site.github_username %}
             <a href="https://github.com/{{ site.github_username }}" target="_blank">
               <span class="fa fa-github"></span>
@@ -25,15 +30,11 @@
             <a href="https://www.linkedin.com/in/cgourmelon" target="_blank">
               <span class="fa fa-linkedin"></span>
             </a>
-          </li>
-        </ul>
-      </div>
 
-      <div class="footer-col  footer-col-2">
-      </div>
-
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+            <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                <i class="fa fa-rss"></i>
+            </a>
+        </div>
       </div>
     </div>
 

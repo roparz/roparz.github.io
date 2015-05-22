@@ -5,8 +5,6 @@ layout: default
 <div class="home">
 
   <section class="posts">
-    <h1 class="page-heading">Posts <a class="pull-right" href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fa fa-rss"></i></a></h1>
-
     <ul class="post-list">
       {% for post in site.posts %}
         <li>
@@ -15,22 +13,26 @@ layout: default
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
+
+          <div class="post-content">
+              {{ post.content | strip_html | truncate:300 }}
+              <a href="{{ post.url | prepend: site.baseurl }}">...</a>
+          </div>
         </li>
       {% endfor %}
     </ul>
   </section>
 
-  <aside class="twitter-sidebar">
-    <h1 class="page-heading">Tweets</h1>
+  <!-- <aside class="twitter-sidebar">
     <a
-      height="500"
+      height="400"
       data-chrome="noheader nofooter transparent"
       data-border-color="#e8e8e8"
       class="twitter-timeline"
       href="https://twitter.com/roparz"
       data-widget-id="559037647625408513"
     >Tweets by @roparz</a>
-  </aside>
+  </aside> -->
 
 </div>
 
