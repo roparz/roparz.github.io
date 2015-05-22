@@ -4,7 +4,7 @@ title:  "gulp-sniffer, un plugin Gulp pour les analyser tous !"
 date:   2015-05-08 18:05:00
 ---
 
-> TLDR; ce post présente le pourquoi et le comment du plugin [gulp-sniffer](https://www.npmjs.com/package/gulp-sniffer).
+> TLDR; ce post présente le pourquoi et le comment du plugin [gulp-sniffer](https://www.npmjs.com/package/gulp-sniffer)
 
 Toutes les entreprises ont leurs propres conventions de codage et il est parfois
 difficile de vérifier que chaque développeur les respecte bien (IDE différents,
