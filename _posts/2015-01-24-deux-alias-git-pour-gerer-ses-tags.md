@@ -8,7 +8,7 @@ Aujourd'hui, après vous avoir parlé de mes [alias Git de base](/2014/12/21/bas
 et de [mon alias préféré `git fix`](/2015/01/05/git-fix.html), je vais vous parler
 de deux alias Git que j'utilise régulièrement dans ma boite pour gérer les tags.
 
-Mais tout d'abord, je dois vous parler de ma configuration Git. En effet, par défaut
+Mais tout d'abord, je dois vous parler de ma configuration Git. En effet<!--break-->, par défaut
 dans Git, un simple `git fetch` ne met pas à jour les tags, il faut pour cela faire
 un `git fetch --tags`. Comme cette commande ne met à jour *que* les tags, il faut,
 pour être complet, faire un `git fetch && git fetch --tags`. Fastidieux...

@@ -11,7 +11,7 @@ difficile de vérifier que chaque développeur les respecte bien (IDE différent
 turn-over, etc.).
 
 D'autres fois, pour certains projets, on va vouloir vérifier que tel ou tel mot
-n'est pas utilisé (ou, au contraire, est bien utilisé) dans les fichiers.
+n'est pas utilisé<!--break--> (ou, au contraire, est bien utilisé) dans les fichiers.
 
 Par exemple, dans ma boite, on a un projet où on utilise une police spécifique qui
 ne permet pas d'utiliser tous les `font-weight` possibles (100-900). On a donc

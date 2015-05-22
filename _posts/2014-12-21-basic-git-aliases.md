@@ -10,7 +10,7 @@ Pour ce tout premier post je vais vous partager les quelques alias Git que j'uti
 tous les jours (ou presque). Je partagerai plus tard d'autre alias maison un peu plus
 complexe ;-)
 
-Avant tout vous devez savoir que j'utilise une configuration spécifique de Git :
+Avant tout vous devez savoir que j'utilise une configuration spécifique de Git<!--break--> :
 {% highlight bash %}
 [push]
   default = simple
