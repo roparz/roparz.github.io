@@ -25,31 +25,12 @@ Ce plugin, c'est [gulp-sniffer](https://www.npmjs.com/package/gulp-sniffer).
 
 Et voici comment on l'utilise :
 
-{% highlight javascript %}
-var gulp = require('gulp'),
-    sniffer = require('gulp-sniffer');
-
-var sniffs = {
-    'Use lighter|normal|bold instead of 100-900 for font-weight': function(content) {
-        return content.match(/font-weight: \d+/);
-    }
-}
-
-gulp.task('check-css', function() {
-    gulp.src('src/**/*.css')
-    .pipe(sniffer(sniffs))
-    .pipe(gulp.dest('dist/'))
-});
-{% endhighlight %}
+<script src="https://gist.github.com/roparz/b358c8fe71655cd47bf9.js"></script>
 
 Cet autre exemple, très simple, permet de vérifier qu'aucune tabulation n'est utilisée
 dans les fichiers :
 
-{% highlight javascript %}
-'This file uses tabs instead of spaces for indentation': function(content) {
-    return content.match(/\t/g);
-}
-{% endhighlight %}
+<script src="https://gist.github.com/roparz/a708125d42ef337b56ae.js"></script>
 
 Bref, vous l'aurez compris, si vous maîtrisez un peu les regex, les possibilités
 sont infinies ;-)
