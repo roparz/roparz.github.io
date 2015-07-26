@@ -10,7 +10,7 @@ et certains bouts de codes deviennent indispensables. Voici donc le premier arti
 d'une série d'outils (directives, configs...) que j'intègre à presque tous mes projets
 AngularJS<!--break-->.
 
-AngalarJS gère très bien le "binding" des éléments `input`, `select` et `textarea` grâce à la
+AngularJS gère très bien le "binding" des éléments `input`, `select` et `textarea` grâce à la
 directive [`ngModel`](https://docs.angularjs.org/api/ng/directive/ngModel). En revanche,
 pour l'attribut `contenteditable`, rien n'est prévu.
 
