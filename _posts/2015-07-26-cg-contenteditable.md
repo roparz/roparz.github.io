@@ -11,8 +11,8 @@ d'une série d'outils (directives, configs...) que j'intègre à presque tous me
 AngularJS<!--break-->.
 
 AngularJS gère très bien le "binding" des éléments `input`, `select` et `textarea` grâce à la
-directive [`ngModel`](https://docs.angularjs.org/api/ng/directive/ngModel). En revanche,
-pour l'attribut `contenteditable`, rien n'est prévu.
+directive <a href="https://docs.angularjs.org/api/ng/directive/ngModel" target="_blank">`ngModel`</a>.
+En revanche, pour l'attribut `contenteditable`, rien n'est prévu.
 
 Voici donc la directive `cg-contenteditable` qui permet de combler ce manque (c'est
 en CoffeeScript mais vous pouvez voir la version compilée dans le CodePen à la fin
@@ -27,11 +27,11 @@ des données.
 
 Cette directive se divise en trois parties. Dans un premier temps : (1) l'initialisation;
 on ajoute l'attribut `contenteditable` à l'élément. Ensuite, (2) on va écouter l'événement
-[`input`](https://developer.mozilla.org/en-US/docs/Web/Events/input) afin de mettre à jour
-le `model` quand on tape dans l'élément. À noter l'utilisation de `scope.$evalAsync()`
-qui va déclancher un "$digest cycle" pour véritablement mettre à jour l'objet représenté
-par `ngModel`. Enfin (3) on regarde les changements sur le `ngModel` avec un `$watch`
-pour les répercuter sur l'élément.
+<a href="https://developer.mozilla.org/en-US/docs/Web/Events/input" target="_blank">`input`</a>
+afin de mettre à jour le `model` quand on tape dans l'élément. À noter l'utilisation de
+`scope.$evalAsync()` qui va déclancher un "$digest cycle" pour véritablement mettre à jour
+l'objet représenté par `ngModel`. Enfin (3) on regarde les changements sur le `ngModel` avec un
+`$watch` pour les répercuter sur l'élément.
 
 Pour finir, voici un petit CodePen qui montre comment on l'utilise :
 

@@ -4,7 +4,7 @@ title:  "gulp-sniffer, un plugin Gulp pour les analyser tous !"
 date:   2015-05-08 18:05:00
 ---
 
-> TLDR; ce post présente le pourquoi et le comment du plugin [gulp-sniffer](https://www.npmjs.com/package/gulp-sniffer)
+> TLDR; ce post présente le pourquoi et le comment du plugin <a href="https://www.npmjs.com/package/gulp-sniffer" target="_blank">gulp-sniffer</a>
 
 Toutes les entreprises ont leurs propres conventions de codage et il est parfois
 difficile de vérifier que chaque développeur les respecte bien (IDE différents,
@@ -21,7 +21,7 @@ décidé de brider l'utilisation de cette propriété à certains mots-clés, à
 Pour cela, j'ai créé un plugin gulp qui va vérifier, à la compilation, le contenu
 des fichiers et renvoyer une erreur si la condition n'est pas respectée.
 
-Ce plugin, c'est [gulp-sniffer](https://www.npmjs.com/package/gulp-sniffer).
+Ce plugin, c'est <a href="https://www.npmjs.com/package/gulp-sniffer" target="_blank">gulp-sniffer</a>.
 
 Et voici comment on l'utilise :
 
