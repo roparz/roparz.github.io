@@ -4,10 +4,11 @@ title: CV
 permalink: /cv/
 ---
 
-Développeur front, AngularJS, NodeJS
+Lead developer front, AngularJS, NodeJS
 
 ## Compétences
 
+### Techniques
 - HTML, CSS, Javascript
 - Sass, Compass, Less
 - CoffeeScript
@@ -15,6 +16,13 @@ Développeur front, AngularJS, NodeJS
 - Git, Github
 - Responsive Design
 - Gulp, Grunt, Bower, NPM
+
+### En tant que team leader
+- Code review
+- Architecture projet
+- Git referent
+- Code consistency
+- Mentoring
 
 ## Expériences
 

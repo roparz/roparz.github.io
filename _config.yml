@@ -1,9 +1,10 @@
 # Site settings
 title: Christophe Gourmelon
+subtitle: Lead developer front
 email: christophe@roparz.me
 description: > # this means to ignore newlines until "baseurl:"
   Blog de Christophe Gourmelon.<br />
-  Développeur front, AngularJS, NodeJS.
+  Lead developer front, AngularJS, NodeJS.
 baseurl: ""
 url: "http://roparz.me"
 twitter_username: roparz
