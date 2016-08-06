@@ -12,7 +12,7 @@ Lead developer, AngularJS, NodeJS
 - HTML, CSS, Javascript
 - AngularJS (1.5)
   - architecture avec <a href="https://github.com/angular-ui/ui-router" target="_blank">Angular UI Router</a>
-  - utilisation des <a href="https://docs.angularjs.org/guide/component">components</a>
+  - utilisation des <a href="https://docs.angularjs.org/guide/component" target="_blank">components</a>
 - NodeJS
     - Express, HapiJS, Redis, RethinkDB...
 - Sass, Compass, Less
