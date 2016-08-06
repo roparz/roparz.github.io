@@ -4,18 +4,23 @@ title: CV
 permalink: /cv/
 ---
 
-Lead developer front, AngularJS, NodeJS
+Lead developer, AngularJS, NodeJS
 
 ## Compétences
 
 ### Techniques
 - HTML, CSS, Javascript
+- AngularJS (1.5)
+  - architecture avec <a href="https://github.com/angular-ui/ui-router" target="_blank">Angular UI Router</a>
+  - utilisation des <a href="https://docs.angularjs.org/guide/component">components</a>
+- NodeJS
+    - Express, HapiJS, Redis, RethinkDB...
 - Sass, Compass, Less
 - CoffeeScript
-- AngularJS, NodeJS
 - Git, Github
 - Responsive Design
 - Gulp, Grunt, Bower, NPM
+- PHP/Java (notions)
 
 ### En tant que team leader
 - Code review
@@ -26,27 +31,24 @@ Lead developer front, AngularJS, NodeJS
 
 ## Expériences
 
-**Développeur front-end - Gutenberg Technology**<br/>
+**Lead developer - Gutenberg Technology**<br/>
 *Depuis mars 2013 - Paris, Montreuil*
 
-- Conception et développement de la plateforme MyEbookFactory (AngularJS, jQuery,
-RequireJS, Less, Bootstrap, Grunt, Bower, PHP (Zend), Twig)
+- Développement full-stack AngularJS, NodeJS (référent front-end)
+- Conception et développement de la plateforme MyEbookFactory (Authoring Tool, Assessment Tool...) et de ses produits annexes (Web Reader, LMS)
 
-**Développeur front-end - Imaginatio**<br/>
+**Developer front-end - Imaginatio**<br/>
 *Juin 2011 à Mars 2013 - Paris*
 
 - Intégration/développement du site de partage documentaire Splayce, splayce.net
-(jQuery, Sass/Compass, Modernizr, RequireJS, Java)
 - Conception et développement de la landing page de Splayce Juridique, splayce.com
-(PHP, Bootstrap, Yeoman, Saas/Compass, Responsive design)
-- Réalisation d'une extension Splayce Juridique pour Chrome, Firefox et Safari
-(AngularJS, jQuery, Compass, BabelExtLight)
+- Réalisation d'une extension Splayce Juridique pour Chrome, Firefox et Safari (basé sur <a href="https://github.com/roparz/BabelExt-Light" target="_blank">BabelExtLight</a>)
 
 **Développeur / Intégrateur web - memOree.fr**<br/>
 *Juillet 2009 à Mars 2011 - Laval*
 
 - Développement et intégration de la plateforme de partage de souvenirs memOree.fr.
-Refonte globale/maintenance/amélioration continue du site (Java (Stripes), Mootools, XediX, MySQL)
+Refonte globale/maintenance/amélioration continue du site
 
 ## Formations
 
