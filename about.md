@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**TLDR;** Mon quotidien en tant Lead Dev Full-stack et Release Manager : AngularJS, NodeJS, Git, AWS, Docker, Gulp, Sass...
+**TLDR;**<br>Mon quotidien en tant Lead Dev Full-stack et Release Manager : AngularJS, NodeJS, Git, AWS, Docker, Gulp, Sass...
 
 ---
 
