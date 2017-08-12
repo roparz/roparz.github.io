@@ -4,20 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Autodidacte, j'ai acquis beaucoup de compétences au cours de mes différentes
-<a href="https://www.linkedin.com/in/cgourmelon" target="_blank">expériences professionnelles</a>.
+TLDR; Mon quotidien en tant Lead Dev Full-stack et Release Manager : AngularJS, NodeJS, Git, AWS, Docker, Gulp, Sass...
 
-Mes spécialités sont les technologies "front-end": **HTML**, **CSS** (Sass, Less)
-et **Javascript** (avec une préférence pour **CoffeeScript**).
+---
 
-Après plusieurs années à bâtir des applications web complexes, dont les dernières
-en utilisant le framework **AngularJS**, je suis aujourd'hui capable je construire
-de A à Z des sites internet rapide et robuste.
+Autodidacte, j'ai acquis beaucoup de compétences au cours de mes différentes <a href="https://www.linkedin.com/in/cgourmelon" target="_blank">expériences professionnelles</a>..
 
-J'ai aussi un peu d'expérience dans les technology "back-end", avec notamment des
-notions en PHP et Java. J'ai eu l'occasion d'utiliser **NodeJS** de façon plus approfondie.
+Ma spécialité est l'environnement Javascript : **AngularJS**, **NodeJS**, les outils comme Gulp, CoffeeScript, NPM, Bower, Git, etc. sont mon quotidien.
 
-Je suis aussi un adepte de **Git** (je crée mes propres alias), **Gulp**, **Bower**
-et toutes ces petites technos qui apportent beaucoup et simplifient énormément le développement.
+En tant que Lead Developer, j'accompagne les autres développeurs dans leurs tâches, je les aides et tente de répondre à leurs questions. J'aide aussi mon directeur technique et les architectes lors des prises de décisions techniques. Enfin, j'ai la charge de relire, valider et merger le code des autres via les pull-request de Github. Cela rejoint d'ailleurs les tâches de mon autre poste ci-après.
 
-En bref, je suis un développeur front passionné qui adore son métier.
+En effet, j'ai récemment pris le poste de Release Manager dans ma société, en plus du poste de Lead Dev. Cela m'a notamment conduit à approfondir mes connaissances dans Docker et les services d'Amazon (AWS). Mon rôle est de rassembler le code des autres développeurs et d'en faire une Release (une image Docker) qui pourra être testée par notre équipe Q/A sur une plateforme de test avant d'être mise en production. Je participe aussi à la rédaction de release note avec l'aide de l'équipe marketing.
+
+En bref, je suis un développeur passionné qui adore son métier.
