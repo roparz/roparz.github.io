@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-TLDR; Mon quotidien en tant Lead Dev Full-stack et Release Manager : AngularJS, NodeJS, Git, AWS, Docker, Gulp, Sass...
+**TLDR;** Mon quotidien en tant Lead Dev Full-stack et Release Manager : AngularJS, NodeJS, Git, AWS, Docker, Gulp, Sass...
 
 ---
-
 
 Autodidacte, j'ai acquis beaucoup de compétences au cours de mes différentes <a href="https://www.linkedin.com/in/cgourmelon" target="_blank">expériences professionnelles</a>..
 
