@@ -8,6 +8,7 @@ TLDR; Mon quotidien en tant Lead Dev Full-stack et Release Manager : AngularJS, 
 
 ---
 
+
 Autodidacte, j'ai acquis beaucoup de compétences au cours de mes différentes <a href="https://www.linkedin.com/in/cgourmelon" target="_blank">expériences professionnelles</a>..
 
 Ma spécialité est l'environnement Javascript : **AngularJS**, **NodeJS**, les outils comme Gulp, CoffeeScript, NPM, Bower, Git, etc. sont mon quotidien.
