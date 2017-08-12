@@ -4,7 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-Lead developer, AngularJS, NodeJS
+Full Stack JS Lead Developer & Release Manager
+AngularJS, NodeJS
 
 ## Compétences
 
@@ -22,12 +23,20 @@ Lead developer, AngularJS, NodeJS
 - Gulp, Grunt, Bower, NPM
 - PHP/Java (notions)
 
-### En tant que team leader
+### En tant que Lead Developer
 - Code review
 - Architecture projet
 - Git referent
 - Code consistency
 - Mentoring
+
+### En tant que Release Manager
+- Merge
+- Création des releases
+- Build des images Docker
+- Mise à jour des instances EC2 chez AWS
+- Accompagnement aux tests
+- Debug
 
 ## Expériences
 
@@ -36,6 +45,7 @@ Lead developer, AngularJS, NodeJS
 
 - Développement full-stack AngularJS, NodeJS (référent front-end)
 - Conception et développement de la plateforme MyEbookFactory (Authoring Tool, Assessment Tool...) et de ses produits annexes (Web Reader, LMS)
+- Release manager depuis Janvier 2017
 
 **Developer front-end - Imaginatio**<br/>
 *Juin 2011 à Mars 2013 - Paris*
