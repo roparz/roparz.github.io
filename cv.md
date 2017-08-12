@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Full Stack JS Lead Developer & Release Manager
+Full Stack JS Lead Developer & Release Manager<br>
 AngularJS, NodeJS
 
 ## Compétences
